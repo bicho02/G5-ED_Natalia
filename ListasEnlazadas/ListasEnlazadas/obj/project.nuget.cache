@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "JcBkO/UQM0C7cOiDLeBpXVyBxMUJD9HeaG8/0+FFY2OWXaFRT+HXt/SGNuVsYnMALvqvLi0jdV/oFaun+Fnfuw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\natgl\\Desktop\\G5-ED_Natalia\\ListasEnlazadas\\ListasEnlazadas\\ListasEnlazadas.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\natgl\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.29\\microsoft.netcore.app.host.win-x64.3.1.29.nupkg.sha512",
+    "C:\\Users\\natgl\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\natgl\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\natgl\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
